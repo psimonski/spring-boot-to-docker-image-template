@@ -1,6 +1,6 @@
-package de.psimonski.template;
+package de.psimonski.templates;
 
-import de.psimonski.template.utils.JvmUtil;
+import de.psimonski.templates.utils.JvmUtil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;

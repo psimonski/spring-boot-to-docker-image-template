@@ -1,4 +1,4 @@
-package de.psimonski.template.utils;
+package de.psimonski.templates.utils;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
